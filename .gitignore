@@ -1,0 +1,8 @@
+/target/
+/*.settings/
+/test-output/
+/result/
+result/log/
+result/screenshots/
+result/test-output/
+/.classpath
